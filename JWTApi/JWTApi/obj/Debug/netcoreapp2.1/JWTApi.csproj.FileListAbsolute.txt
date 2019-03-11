@@ -1,0 +1,14 @@
+C:\temp\JWT\JWTApi\JWTApi\bin\Debug\netcoreapp2.1\JWTApi.deps.json
+C:\temp\JWT\JWTApi\JWTApi\bin\Debug\netcoreapp2.1\JWTApi.runtimeconfig.json
+C:\temp\JWT\JWTApi\JWTApi\bin\Debug\netcoreapp2.1\JWTApi.runtimeconfig.dev.json
+C:\temp\JWT\JWTApi\JWTApi\bin\Debug\netcoreapp2.1\JWTApi.dll
+C:\temp\JWT\JWTApi\JWTApi\bin\Debug\netcoreapp2.1\JWTApi.pdb
+C:\temp\JWT\JWTApi\JWTApi\obj\Debug\netcoreapp2.1\JWTApi.csprojAssemblyReference.cache
+C:\temp\JWT\JWTApi\JWTApi\obj\Debug\netcoreapp2.1\JWTApi.csproj.CoreCompileInputs.cache
+C:\temp\JWT\JWTApi\JWTApi\obj\Debug\netcoreapp2.1\JWTApi.RazorAssemblyInfo.cache
+C:\temp\JWT\JWTApi\JWTApi\obj\Debug\netcoreapp2.1\JWTApi.RazorAssemblyInfo.cs
+C:\temp\JWT\JWTApi\JWTApi\obj\Debug\netcoreapp2.1\JWTApi.AssemblyInfoInputs.cache
+C:\temp\JWT\JWTApi\JWTApi\obj\Debug\netcoreapp2.1\JWTApi.AssemblyInfo.cs
+C:\temp\JWT\JWTApi\JWTApi\obj\Debug\netcoreapp2.1\JWTApi.RazorTargetAssemblyInfo.cache
+C:\temp\JWT\JWTApi\JWTApi\obj\Debug\netcoreapp2.1\JWTApi.dll
+C:\temp\JWT\JWTApi\JWTApi\obj\Debug\netcoreapp2.1\JWTApi.pdb
